@@ -10,16 +10,16 @@ The Collaborative Workspace Tool aims at serving the following functions to the 
 
 ## Screenshots
 ### Login
-![login](/screenshots/login.jpg)
+![login](/screenshots/login.png)
 ### Project Functions
-![project1](/screenshots/project (1).jpg)
-![project2](/screenshots/project (2).jpg)
-![project3](/screenshots/project (3).jpg)
-![project4](/screenshots/project (4).jpg)
+![project1](/screenshots/project1.png)
+![project2](/screenshots/project2.png)
+![project3](/screenshots/project3.png)
+![project4](/screenshots/project4.png)
 ### Workspace
-![work1](/screenshots/workspace (1).jpg)
-![work2](/screenshots/workspace (2).jpg)
-![work3](/screenshots/workspace (3).jpg)
+![work1](/screenshots/workspace1.png)
+![work2](/screenshots/workspace2.png)
+![work3](/screenshots/workspace3.png)
 ### Broadcast Feature
-![comm1](/screenshots/communication (1).jpg)
-![comm3](/screenshots/communication (2).jpg)
+![comm1](/screenshots/communication1.png)
+![comm3](/screenshots/communication2.png)
